@@ -1,4 +1,4 @@
-# Hey, I'm Botond 👋
+# Hey, I'm Botond
 
 **Junior Backend Engineer** | Java/Spring Boot | PostgreSQL | DevOps | Cryptography
 
@@ -35,7 +35,7 @@ I maintain many repos exploring different domains: DevOps automation, security r
 
 - **GitHub:** [@bllbtnd](https://github.com/bllbtnd)
 - **Website:** [ballabotond.com](https://ballabotond.com)
-- **Location:** Pécs, Hungary | Graduating June 2026
+- **Location:** Budapest, Hungary | Graduating June 2026
 
 ---
 
