@@ -35,8 +35,8 @@ I maintain many repos exploring different domains: DevOps automation, security r
 
 - **GitHub:** [@bllbtnd](https://github.com/bllbtnd)
 - **Website:** [ballabotond.com](https://ballabotond.com)
-- **Location:** Budapest, Hungary | Graduating June 2026
 - **CV** [cv.ballabotond.com](https://cv.ballabotond.com)
+- **Location:** Budapest, Hungary | Graduating June 2026
 
 ---
 
