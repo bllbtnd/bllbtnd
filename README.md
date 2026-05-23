@@ -1,44 +1,34 @@
-# Botond Balla
-
-Software engineer based in Esztergom, Hungary. I build backend systems, self-host my own infrastructure, and care about how things actually work under the hood.
-
----
-
-## What I've built
-
-**Vortex** — My university thesis. An end-to-end encrypted Android messaging app. I implemented X25519 key exchange and AES-256-GCM encryption from scratch, not from a library wrapper. Real-time WebSocket sync, secure architecture, designed to actually protect user data.
-
-**personalRedirect** — A production URL shortener running on Cloudflare Workers + D1. Live analytics, IP geolocation, ISP detection, admin dashboard, QR generation. 100+ monthly active users.
-
-**map.ballabotond.com** — Interactive geospatial mapping app built with Astro, Mapbox, and React. GeoJSON visualization, polylabel positioning, live tile rendering. Demonstrates PostGIS integration in a real product.
-
-**Aether** — A backend tool I built and use in production daily. Nothing fancy to explain — it just works and keeps working.
+# BOTOND BALLA
+### Software Engineer | Systems & Backend Architecture
 
 ---
 
-## What I work with
+Software engineer focused on building resilient, high-throughput production systems. Experienced in Java/Spring Boot, PostgreSQL, and containerized deployments. I specialize in backend architecture, self-hosted infrastructure, and low-level system optimization.
 
-**Languages:** Java 17+, TypeScript, Node.js, Kotlin, C, C++, C#, Bash
+### CORE INFRASTRUCTURE
 
-**Frameworks:** Spring Boot, Spring Data JPA, React, Angular, Astro
+**Languages:** Java 17+, Rust, TypeScript, C, C++, C#
+**Backend & Edge:** Spring Boot, Spring Data JPA, Node.js, WebAssembly (WASM), Cloudflare Workers
+**Databases & DevOps:** PostgreSQL, PostGIS, MySQL, Docker, Linux, Nginx, CI/CD
+**Security & Architecture:** REST, Keycloak (OAuth 2.0 / OIDC), X25519, AES-256-GCM, Microservices
 
-**Databases:** PostgreSQL, PostGIS, MySQL, SQLite
+### ENGINEERING HIGHLIGHTS
 
-**Infrastructure:** Docker, Docker Compose, Linux, Nginx, Cloudflare DNS, GitHub Actions, Git
-
-**Security:** Keycloak, OAuth 2.0, OpenID Connect, TLS/SSL, X25519, AES-256-GCM
-
----
-
-## Background
-
-Interned at LogiCloud Kft. where I integrated Keycloak across all company systems, built Spring Boot APIs with PostGIS, and shipped an independent factory product verification system used in production. They kept me on after the internship.
-
-Graduating June 2026 with a BSc in Computer Science from the University of Pécs. C1 English.
+* **StatsForge (Rust & Edge Compute):** Architected a high-performance GitHub analytics SVG generator in Rust. Compiled to WebAssembly and deployed on Cloudflare Workers.
+* **Vortex (Encrypted Messaging):** Built an end-to-end encrypted messaging platform utilizing X25519/AES-256-GCM cryptography and real-time WebSocket synchronization.
+* **Enterprise IAM & APIs:** Configured multi-tenant Identity and Access Management flows using Keycloak. Delivered Spring Boot REST APIs handling 500+ daily requests with sub-100ms latency.
+* **Factory Verification System:** Engineered an independent industrial tracking system for QR code scanning, item validation, and automated barcode label printing.
+* **D1 Analytics & Geolocation:** Developed a production URL shortener with live analytics, IP geolocation, and ISP detection serving 100+ active users monthly.
+* **Aether DevOps Tool:** Designed and deployed a backend operational tool focused on real-world reliability and maintainability.
 
 ---
 
-## Find me
+### SYSTEM ANALYTICS
 
-- [ballabotond.com](https://ballabotond.com)
-- [cv.ballabotond.com](https://cv.ballabotond.com)
+> *Powered by [StatsForge](https://github.com/bllbtnd/StatsForge) - my custom Rust/WASM edge service.*
+
+![GitHub Stats](https://statsforge.ballabotond.com/card?username=bllbtnd&theme=dark&primaryColor=%230d1117&accentColor=%232dc9a8&barAnimationSpeed=1200&numberOfLanguages=6&barHeight=12&showPercentages=true&sortBy=bytes&borderRadius=4&excludeLanguages=HTML,CSS,Dockerfile,Shell,Makefile,Jupyter,JavaScript)
+
+---
+
+**[ballabotond.com](https://ballabotond.com)**
