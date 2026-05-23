@@ -27,7 +27,7 @@ Software engineer focused on building resilient, high-throughput production syst
 
 > *Powered by [StatsForge](https://github.com/bllbtnd/StatsForge) - my custom Rust/WASM edge service.*
 
-![GitHub Stats](https://statsforge.ballabotond.com/card?username=bllbtnd&theme=dark&primaryColor=%230d1117&accentColor=%232dc9a8&barAnimationSpeed=1200&numberOfLanguages=6&barHeight=12&showPercentages=true&sortBy=bytes&borderRadius=4&excludeLanguages=HTML,CSS,Dockerfile,Shell,Makefile,Jupyter,JavaScript)
+![GitHub Stats](https://statsforge.ballabotond.com/card?username=bllbtnd&theme=dark&primaryColor=%230d1117&accentColor=%232dc9a8&barAnimationSpeed=1200&numberOfLanguages=6&barHeight=12&showPercentages=true&sortBy=bytes&borderRadius=4&excludeLanguages=HTML,CSS,Dockerfile,Shell,Makefile,Jupyter,JavaScript&cardWidth=800)
 
 ---
 
