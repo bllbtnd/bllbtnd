@@ -10,7 +10,7 @@ I build real things. My public repositories documenting my journey from hobby pr
 - **Infrastructure** — Docker, Linux, GitHub Actions, Cloudflare Workers
 - **Databases** — PostgreSQL with PostGIS, geospatial optimization
 - **Cryptography** — X25519 key exchange, AES-256-GCM, zero-knowledge protocols
-- **Full-Stack** — When needed: React, Astro, TypeScript, Node.js
+- **Full-Stack** — When needed: React, Astro, TypeScript, Node.js, Angular
 
 Currently at **LogiCloud Kft.** (Spring Boot, PostGIS, system integration). Graduating June 2026 with a BSc in Computer Science from University of Pécs.
 
