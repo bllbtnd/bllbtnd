@@ -8,8 +8,11 @@ Software engineer focused on building resilient, high-throughput production syst
 ### CORE INFRASTRUCTURE
 
 **Languages:** Java 17+, Rust, TypeScript, C, C++, C#
+
 **Backend & Edge:** Spring Boot, Spring Data JPA, Node.js, WebAssembly (WASM), Cloudflare Workers
+
 **Databases & DevOps:** PostgreSQL, PostGIS, MySQL, Docker, Linux, Nginx, CI/CD
+
 **Security & Architecture:** REST, Keycloak (OAuth 2.0 / OIDC), X25519, AES-256-GCM, Microservices
 
 ### ENGINEERING HIGHLIGHTS
