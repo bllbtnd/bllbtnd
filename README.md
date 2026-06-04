@@ -18,6 +18,7 @@ Software engineer focused on building resilient, high-throughput production syst
 ### ENGINEERING HIGHLIGHTS
 
 * **StatsForge (Rust & Edge Compute):** Architected a high-performance GitHub analytics SVG generator in Rust. Compiled to WebAssembly and deployed on Cloudflare Workers.
+* **StreakForge (Rust & Edge Compute):** Built an animated GitHub streak card generator in Rust/WASM on Cloudflare Workers, backed by a D1 SQLite leaderboard. Flame color shifts from yellow to blue as streak grows.
 * **Vortex (Encrypted Messaging):** Built an end-to-end encrypted messaging platform utilizing X25519/AES-256-GCM cryptography and real-time WebSocket synchronization.
 * **Enterprise IAM & APIs:** Configured multi-tenant Identity and Access Management flows using Keycloak. Delivered Spring Boot REST APIs handling 500+ daily requests with sub-100ms latency.
 * **Factory Verification System:** Engineered an independent industrial tracking system for QR code scanning, item validation, and automated barcode label printing.
@@ -28,9 +29,12 @@ Software engineer focused on building resilient, high-throughput production syst
 
 ### SYSTEM ANALYTICS
 
-> *Powered by [StatsForge](https://github.com/bllbtnd/StatsForge) - my custom Rust/WASM edge service.*
+> *Powered by [StatsForge](https://github.com/bllbtnd/StatsForge) & [StreakForge](https://github.com/bllbtnd/StreakForge) — custom Rust/WASM edge services.*
 
-![GitHub Stats](https://statsforge.ballabotond.com/card?username=bllbtnd&theme=dark&primaryColor=%230d1117&accentColor=%232dc9a8&barAnimationSpeed=1200&numberOfLanguages=6&barHeight=12&showPercentages=true&sortBy=bytes&borderRadius=4&excludeLanguages=HTML,CSS,Dockerfile,Shell,Makefile,Jupyter,JavaScript&cardWidth=800)
+<table border="0" cellpadding="0"><tr>
+<td><img src="https://streakforge.ballabotond.com/card/bllbtnd?tz=Europe/Budapest" /></td>
+<td><img src="https://statsforge.ballabotond.com/card?username=bllbtnd&theme=dark&primaryColor=%230d1117&accentColor=%232dc9a8&barAnimationSpeed=1200&numberOfLanguages=6&barHeight=12&showPercentages=true&sortBy=bytes&borderRadius=4&excludeLanguages=HTML,CSS,Dockerfile,Shell,Makefile,Jupyter,JavaScript&cardWidth=500" /></td>
+</tr></table>
 
 ---
 
