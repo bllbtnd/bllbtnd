@@ -7,7 +7,7 @@ Software engineer focused on building resilient, high-throughput production syst
 
 ### CORE INFRASTRUCTURE
 
-**Languages:** Java, TypeScript, C#, Python
+**Languages:** Java, C#, TypeScript, Python
 
 **Backend & Edge:** Spring Boot, Spring Data JPA, Node.js, WebAssembly (WASM), Cloudflare Workers
 
